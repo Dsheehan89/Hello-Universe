@@ -1,4 +1,3 @@
 Hello-Universe
 ==============
-
-Type out Hello Universe
+1) How are you today?
